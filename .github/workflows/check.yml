@@ -1,0 +1,10 @@
+name: Check translations
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  catalogues:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node scripts/check.cjs
