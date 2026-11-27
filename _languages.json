@@ -13,5 +13,6 @@
   { "code": "th", "name": "ไทย", "flag": "th.png" },
   { "code": "tr", "name": "Türkçe", "flag": "tr.png" },
   { "code": "uk", "name": "Українська", "flag": "ua.png" },
+  { "code": "vi", "name": "Tiếng Việt", "flag": "vn.png" },
   { "code": "zh", "locale": "zh-Hans-CN", "name": "简体中文", "flag": "cn.png", "electronLocales": ["zh-CN"] }
 ]
